@@ -25,6 +25,7 @@
         <module>product-service</module>
         <module>recommendation-service</module>
         <module>review-service</module>
+        <module>product-ms-api</module>
     </modules>
 
 
